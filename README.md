@@ -9,7 +9,3 @@
 ---
 
 <div align="center">
-
-<p align="center">
-  <img src="assets/hearts.jpg" width="200px" height="100px" alt="Shy Cat" />
-</p>
