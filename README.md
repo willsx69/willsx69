@@ -36,7 +36,7 @@ Tenho experiência prática criando APIs REST, estruturando bancos de dados rela
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=willisx69&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=willsx69&theme=tokyonight"/>
 </p>
 
 ---
