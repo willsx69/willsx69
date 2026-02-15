@@ -1,4 +1,5 @@
-# 👨‍💻 willisx69
+
+👋 Olá! Sou William Breno, estudante de Análise e Desenvolvimento de Sistemas focado em backend com Node.js e bancos de dados relacionais. Atualmente busco estágio em desenvolvimento.
 
 ## 🚀 Tecnologias & Ferramentas
 
