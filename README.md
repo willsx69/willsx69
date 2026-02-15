@@ -31,8 +31,8 @@ Tenho experiência prática criando APIs REST, estruturando bancos de dados rela
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=willisx69&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willisx69&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=willsx69&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willsx69&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
