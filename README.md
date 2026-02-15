@@ -1,8 +1,7 @@
 # 👨‍💻 William Bren
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Focado em desenvolvimento Backend com Node.js  
-🚀 Buscando oportunidade de estágio em desenvolvimento  
+💻 Focado em desenvolvimento Backend com Node.js 
 
 Tenho experiência prática criando APIs REST, estruturando bancos de dados relacionais e desenvolvendo projetos fullstack com React e Next.js.
 
