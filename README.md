@@ -74,7 +74,7 @@ E-commerce moderno desenvolvido com Next.js e TypeScript.
 ## 📬 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/william-breno-989401366/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="mailto:williambreno666@gmail.com">
