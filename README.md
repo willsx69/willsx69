@@ -186,5 +186,4 @@ E-commerce moderno desenvolvido com Next.js e TypeScript.
 
 
 
-![Snake animation](https://github.com/willsx69/willsx69/blob/output/github-contribution-grid-snake.svg)
 
