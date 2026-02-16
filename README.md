@@ -29,8 +29,6 @@ Tenho experiência prática criando APIs REST, estruturando bancos de dados rela
 ## 📊 Minhas Estatísticas
 
 
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=willsx69&theme=tokyonight"/>
 </p>
 
