@@ -26,43 +26,6 @@ Tenho experiência prática criando APIs REST, estruturando bancos de dados rela
 
 ---
 
-## 📊 Minhas Estatísticas
-
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=willsx69&theme=tokyonight"/>
-</p>
-
----
-
-## 📌 Projetos em Destaque
-
-### 📦 Sistema Controle de Objetos
-Sistema fullstack para controle e validação de lançamentos operacionais.
-
-✔ API REST com Express  
-✔ Banco de dados com Prisma e PostgreSQL  
-✔ Interface funcional  
-✔ Estrutura organizada  
-
----
-
-### 🛒 Yacloset
-E-commerce moderno desenvolvido com Next.js e TypeScript.
-
-✔ Interface responsiva  
-✔ Estrutura escalável  
-✔ Foco em experiência do usuário  
-
----
-
-## 📚 Atualmente Estudando
-
-- Arquitetura MVC
-- Boas práticas para APIs REST
-- Clean Code
-- Estruturação de projetos backend
-
----
 
 ## 📬 Contato
 
