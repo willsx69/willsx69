@@ -23,7 +23,7 @@ Tenho experiência prática criando APIs REST, estruturando bancos de dados rela
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=007ACC"/>
 </p>
-
+ 
 ---
 
 
