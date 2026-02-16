@@ -113,53 +113,6 @@ Tenho experiência prática criando APIs REST, estruturando bancos de dados rela
 
 ---
 
-# 📌 Projetos em Destaque
-
-## 🥇 Sistema Controle de Objetos
-Sistema fullstack para controle e validação de lançamentos operacionais.
-
-✔ API REST estruturada  
-✔ Banco de dados com Prisma e PostgreSQL  
-✔ Organização backend  
-✔ Separação de responsabilidades  
-
----
-
-## 🥈 Technical Support API
-API de sistema de chamados para TI utilizando Node.js, Prisma ORM e banco relacional.
-
-✔ Estrutura backend organizada  
-✔ CRUD completo  
-✔ Modelagem de dados  
-
----
-
-## 🥉 REST API Node
-API REST construída com Node.js e Express aplicando boas práticas de estruturação.
-
-✔ Rotas organizadas  
-✔ Separação de camadas  
-✔ Padrão backend escalável  
-
----
-
-## 🛒 Yacloset
-E-commerce moderno desenvolvido com Next.js e TypeScript.
-
-✔ Interface responsiva  
-✔ Estrutura fullstack  
-✔ Foco em experiência do usuário  
-
----
-
-## 📚 Atualmente Estudando
-
-- Arquitetura MVC  
-- Clean Code  
-- Boas práticas em APIs REST  
-- Estruturação de projetos backend  
-
----
 
 ## 📬 Contato
 
