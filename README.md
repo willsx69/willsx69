@@ -44,31 +44,14 @@ Tenho experiência prática criando APIs REST, estruturando bancos de dados rela
   <a href="https://www.linkedin.com/in/william-breno-989401366/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-
----
-
-⭐ Sempre aprendendo e evoluindo como desenvolvedor.# 👨‍💻 William Breno
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Focado em desenvolvimento Backend com Node.js  
-🚀 Buscando oportunidade de estágio em desenvolvimento  
-
-Tenho experiência prática criando APIs REST, estruturando bancos de dados relacionais e desenvolvendo projetos fullstack. Meu foco principal é backend, organização de código e boas práticas.
-
----
-
-## 📬 Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
   <a href="mailto:williambreno666@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
 
 ---
+
+## 📬 Contato
 
 ⭐ Sempre evoluindo como desenvolvedor.
 
