@@ -46,8 +46,6 @@ Tenho experiência prática criando APIs REST, estruturando bancos de dados rela
 
 ---
 
-## 📬 Contato
-
 ⭐ Sempre evoluindo como desenvolvedor.
 
 
